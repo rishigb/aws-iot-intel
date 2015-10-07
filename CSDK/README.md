@@ -6,7 +6,7 @@ Instructions below assumes you have your Intel Edison flashed with the latest im
 
 **Generate the necessary certificates:**
 
-You can follow the instructions found here: https://github.com/intel-iot-devkit/aws-iot-intel on how to generate certificates and activate them
+You can follow the instructions found here: https://github.com/intel-iot-devkit/aws-iot-intel on how to generate certificates and activate them.
 
 You will need:
 * privateKey.pem
@@ -31,7 +31,7 @@ $ cd temperature
 $ vi aws_iot_config.h
 ```
 
-```
+```c
 #define AWS_IOT_MQTT_HOST              "INSTANCE.iot.REGION.amazonaws.com" ///<Customer Specific Host
 #define AWS_IOT_MQTT_PORT              8883 ///< default port for MQTT/S
 #define AWS_IOT_MQTT_CLIENT_ID         "edisonClient" ///< MQTT client ID should be unique
