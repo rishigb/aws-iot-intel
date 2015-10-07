@@ -47,6 +47,8 @@ $ make
 $ ./temperature
 ```
 
+![screenshot](screenshot.png)
+
 
 
 
