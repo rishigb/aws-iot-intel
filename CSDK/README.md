@@ -18,7 +18,7 @@ You will need:
 $ tar -xf aws-iot-thing-sdk-c.tar
 ``` 
 
-**Copy over the files and certificates**
+**Copy over the certificates**
 ``` bash
 $ cp LOCATION_OF_PRIVATE_KEY/privateKey.pem certs/
 $ cp LOCATION_OF_CERTIFICATE/cert.pem certs/
