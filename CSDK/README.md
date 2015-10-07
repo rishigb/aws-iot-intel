@@ -1,6 +1,7 @@
 ## Getting Started With Amazon Web Services IoT on Intel Edison with the C SDK
 
-### Setup:
+**Before You Begin**
+Instructions below assumes you have your Intel Edison flashed with the latest image and setup with Amazon Web Services IoT. You can find instructions here https://software.intel.com/en-us/iot/library/edison-getting-started and here https://github.com/intel-iot-devkit/aws-iot-intel
 
 **Generate the necessary certificates:**
 You can follow the instructions found here: https://github.com/intel-iot-devkit/aws-iot-intel on how to generate certificates and activate them
