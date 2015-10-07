@@ -42,6 +42,9 @@ $ vi aws_iot_config.h
 ```
 
 **Connecting the temperature sensor**
+
+Connect the Grove temperature sensor to the A0 port on shield attached to the Intel Edison.
+
 ![Connect to the A0 port](https://camo.githubusercontent.com/978850d4e37ecce82f3e94c18bfb7de16ef8edbd/687474703a2f2f72657873746a6f686e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f494d475f313239342e6a7067)
 
 **Build & Run**
