@@ -56,7 +56,8 @@ In order to get permission to download the AWS IoT tools, attach the administrat
 $ aws s3 cp s3://aws-iot-private-beta/aws-iot-cli.zip aws-iot-cli.zip
 $ unzip aws-iot-cli.zip
 $ mkdir .aws/models
-$ cp –r ./iot .aws/models
+$ cp –r ./models/iot .aws/models
+$ cp –r ./models/iot-data .aws/models
 ``` 
 To make sure everything has installed correctly run the iot help file:
 ``` bash
