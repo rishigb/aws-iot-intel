@@ -93,14 +93,20 @@ $ more certOutput.txt.
 
 Create a Json policy document for AWS IoT SDK:
 Copy the following text (ctrl-c):
-``` bash
+``` json
 {
-"Version": "2012-10-17",
-"Statement": [{
-"Effect": "Allow",
-"Action":["iot:*"],
-"Resource": ["*"]
-}]
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iot:*"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
 }
 ``` 
 * Enter "$ vi policy.doc"  hit "a" and right-click to paste the text.
