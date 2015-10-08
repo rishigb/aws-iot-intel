@@ -6,7 +6,7 @@ This Node.js AWS IoT sample app is used to read a pair of sensors plugged into t
 If you have not done so pull the rootCA to your cert directory with: 
 
 ```
-curl https://www.symantec.com/cerisign/roots/VeriSign-Class%203-Public-Primary-Certification-Authority-G5.pem > ~/aws_certs/rootCA.pem 
+curl https://www.symantec.com/content/en/us/enterprise/verisign/roots/VeriSign-Class%203-Public-Primary-Certification-Authority-G5.pem > ~/aws_certs/rootCA.pem 
 ```
 
 Once you have completed the initial setup connect a Grove shield sensor to the Intel Edison. Connect a Grove light sensor into A0 and a Grove temperature sensor into A1 as shown below:
