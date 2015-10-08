@@ -1,7 +1,9 @@
 
 ###Running the Node.js Sample app 
 
-This Node.js AWS IoT sample app is used to read a pair of sensors plugged into the Intel Edison and send the data up to the AWS IoT cloud service. In order to run it you must first complete the setup outlined at https://github.com/rexstjohn/aws-examples/blob/master/ReadMe.md in order to generate the certificates needed to connect to the service. 
+This Node.js AWS IoT sample app is used to read a pair of sensors plugged into the Intel Edison and send the data up to the AWS IoT cloud service.
+
+In order to run it you must first complete the setup outlined at https://github.com/intel-iot-devkit/aws-iot-intel/blob/master/README.md in order to generate the certificates needed to connect to the service. 
 
 If you have not done so pull the rootCA to your cert directory with: 
 
