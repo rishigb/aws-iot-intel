@@ -1,6 +1,6 @@
 ## Getting Started With Amazon Web Services IoT on Intel Edison
 
-### Install AWS CLI:
+### Install AWS CLI: 
 
 **Install pip (Python package manager):**
 ``` bash
