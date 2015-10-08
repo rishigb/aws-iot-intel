@@ -1,5 +1,7 @@
 ## Getting Started With Amazon Web Services IoT on Intel Edison
 
+![Intel Edison + AWS IoT](https://cloud.githubusercontent.com/assets/2881361/10375573/439555c4-6dc7-11e5-8eb0-75b9f1506f30.png)
+
 ### Install AWS CLI: 
 
 **Install pip (Python package manager):**
