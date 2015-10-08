@@ -41,3 +41,10 @@ npm install -g minimist
 ```
 node Edison-JS-Sample.js
 ```
+
+## Support
+
+For technical support on the Intel Edison, use the [FAQ](https://software.intel.com/en-us/iot/hardware/edison/support) and [Support Forum](https://communities.intel.com/community/makers/edison/forums/content)
+
+If you have technical questions about AWS IoT Device SDK, use the [AWS IoT Forum](https://forums.aws.amazon.com/forum.jspa?forumID=210).
+For any other questions on AWS IoT, contact [AWS Support](https://aws.amazon.com/contact-us).

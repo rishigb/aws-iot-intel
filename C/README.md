@@ -58,6 +58,9 @@ $ ./temperature
 
 ![screenshot](screenshot.png)
 
+##Support##
+
+For technical support on the Intel Edison, use the [FAQ](https://software.intel.com/en-us/iot/hardware/edison/support) and [Support Forum](https://communities.intel.com/community/makers/edison/forums/content)
 
 
 
