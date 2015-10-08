@@ -19,9 +19,10 @@ Once you have completed the initial setup connect a Grove shield sensor to the I
 
 ###Install dependencies 
 
-Install the following modules:
+Install the SDK and following modules:
 
 ```
+npm install aws-iot-device-sdk
 npm install -g inherits
 npm install -g mqtt
 npm install -g minimist
