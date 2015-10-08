@@ -14,6 +14,9 @@ You will need:
 * rootCA.pem
 
 **Download and extract the C SDK**
+
+You can find the C SDK here: https://github.com/aws/aws-iot-thing-sdk-embedded-C
+
 ``` bash
 $ tar -xf aws-iot-thing-sdk-c.tar
 ``` 
