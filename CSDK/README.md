@@ -32,7 +32,7 @@ $ vi aws_iot_config.h
 ```
 
 ```c
-#define AWS_IOT_MQTT_HOST              "INSTANCE.iot.REGION.amazonaws.com" ///<Customer Specific Host
+#define AWS_IOT_MQTT_HOST              "MY_INSTANCE.iot.MY_REGION.amazonaws.com" ///<Customer Specific Host
 #define AWS_IOT_MQTT_PORT              8883 ///< default port for MQTT/S
 #define AWS_IOT_MQTT_CLIENT_ID         "edisonClient" ///< MQTT client ID should be unique
 #define AWS_IOT_MY_THING_NAME          "EdisonGroveTemperature" ///< Thing Name of the Shadow Thing
