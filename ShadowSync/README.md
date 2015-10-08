@@ -11,10 +11,11 @@ Create a Json file on the Edison that contains a simulated state of a device. Le
 
 ```json
 {
-"state": {
-"reported": {
-"lux":"8"}
-}
+    "state": {
+        "reported": {
+            "lux": "8"
+        }
+    }
 }
 ```
 
