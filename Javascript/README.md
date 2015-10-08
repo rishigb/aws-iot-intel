@@ -11,7 +11,7 @@ curl https://www.symantec.com/content/en/us/enterprise/verisign/roots/VeriSign-C
 
 Once you have completed the initial setup connect a Grove shield sensor to the Intel Edison. Connect a Grove light sensor into A0 and a Grove temperature sensor into A1 as shown below:
 
-(image needed) 
+![Edison Setup](edison_setup.jpg)
 
 ###Install dependencies 
 
